@@ -1,6 +1,6 @@
 """
 vocab_to_json.py
-将 Markdown 词汇文档解析为结构化 JSON，自动跳过 NOTE 部分。
+将 Markdown 词汇Obsidian文档解析为结构化 JSON，自动跳过 NOTE 部分。
 
 使用方法:
     python vocab_to_json.py input.md output.json
