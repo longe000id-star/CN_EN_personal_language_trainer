@@ -1,0 +1,1088 @@
+{
+  "parts": [
+    {
+      "title": "【八级】S-Z",
+      "subcategories": [
+        {
+          "title": "Magic / Supernatural / Sorcery",
+          "words": [
+            "sorcerer",
+            "sorcery"
+          ],
+          "count": 2
+        },
+        {
+          "title": "Morality / Behavior / Character / Personality",
+          "words": [
+            "sordid",
+            "speechless",
+            "staid",
+            "staunch",
+            "stealth",
+            "stupendous",
+            "susceptible",
+            "sympathetic",
+            "symptomatic",
+            "tolerable",
+            "torrid",
+            "unruly",
+            "unsafe",
+            "untimely",
+            "unwholesome",
+            "wary",
+            "weird",
+            "wretchedness"
+          ],
+          "count": 18
+        },
+        {
+          "title": "Body / Health / Medicine / Food / Nutrition",
+          "words": [
+            "spinal",
+            "spine",
+            "starvation",
+            "suckle",
+            "surgery",
+            "tallow",
+            "tissue",
+            "tuna",
+            "vomit",
+            "wean"
+          ],
+          "count": 10
+        },
+        {
+          "title": "Actions / Skills / Communication / Work / Production",
+          "words": [
+            "specialize",
+            "speculation",
+            "speculative",
+            "squash",
+            "stability",
+            "steadily",
+            "stiffen",
+            "stimulus",
+            "storehouse",
+            "stud",
+            "stun",
+            "subside",
+            "subsist",
+            "supplants",
+            "supplication",
+            "supporter",
+            "surmise",
+            "surroundings",
+            "transact",
+            "transformation",
+            "transit",
+            "translation",
+            "treatise",
+            "trickle",
+            "trustee",
+            "utilize",
+            "vibrate",
+            "widen",
+            "wrangle"
+          ],
+          "count": 29
+        },
+        {
+          "title": "Objects / Tools / Materials / Animals / Plants / Nature",
+          "words": [
+            "squash",
+            "stereo",
+            "sterling",
+            "stile",
+            "supersonic",
+            "sultan",
+            "sundry",
+            "telescope",
+            "telex",
+            "thorny",
+            "tinge",
+            "tingle",
+            "township",
+            "treble",
+            "tweed",
+            "upland",
+            "vane",
+            "verdure",
+            "vestige",
+            "wafer",
+            "wharf",
+            "whisker"
+          ],
+          "count": 22
+        },
+        {
+          "title": "People / Occupations / Groups / Social",
+          "words": [
+            "subscriber",
+            "sultan",
+            "supporter",
+            "tourist",
+            "vagabond",
+            "wanderer",
+            "villager"
+          ],
+          "count": 7
+        },
+        {
+          "title": "Law / Politics / Governance / Religion",
+          "words": [
+            "subjection",
+            "tribunal"
+          ],
+          "count": 2
+        },
+        {
+          "title": "Science / Education / Knowledge / Literature / Art",
+          "words": [
+            "spontaneous",
+            "stimulus",
+            "telescope",
+            "telex",
+            "translation",
+            "treatise",
+            "verification",
+            "xerography",
+            "Xerox"
+          ],
+          "count": 9
+        },
+        {
+          "title": "Emotions / Thought / Cognition",
+          "words": [
+            "speculation",
+            "speculative",
+            "surmise",
+            "wistful"
+          ],
+          "count": 4
+        },
+        {
+          "title": "Abstract Concepts / Miscellaneous",
+          "words": [
+            "starch",
+            "stigma",
+            "triple",
+            "triumphal",
+            "usage",
+            "variable",
+            "vaunt",
+            "vehement",
+            "verdict",
+            "vicissitude",
+            "volley",
+            "zenith",
+            "zodiac"
+          ],
+          "count": 13
+        },
+        {
+          "title": "Technology / Tools / Materials",
+          "words": [
+            "weld",
+            "waterproof"
+          ],
+          "count": 2
+        }
+      ],
+      "word_count": 118
+    },
+    {
+      "title": "【八级】N-S",
+      "subcategories": [
+        {
+          "title": "Numbers / Measurement / Nutrition",
+          "words": [
+            "numberless",
+            "numeral",
+            "nutrition"
+          ],
+          "count": 3
+        },
+        {
+          "title": "Objects / Materials / Tools / Plants / Animals / Nature",
+          "words": [
+            "oaken",
+            "ornamental",
+            "orbit",
+            "oxygen",
+            "pastry",
+            "pedestal",
+            "pelt",
+            "pistil",
+            "pith",
+            "pivot",
+            "primrose",
+            "protoplasm",
+            "pupa",
+            "sandstone",
+            "sapling",
+            "sedge",
+            "seedling",
+            "shingle"
+          ],
+          "count": 18
+        },
+        {
+          "title": "People / Occupations / Groups",
+          "words": [
+            "observer",
+            "occupant",
+            "operator",
+            "oppressor",
+            "pagan",
+            "palmer",
+            "panel",
+            "partisan",
+            "pew",
+            "Pharaoh",
+            "politician",
+            "poster",
+            "potter",
+            "preacher",
+            "Quaker",
+            "rabble",
+            "reaper",
+            "regent",
+            "reservoir",
+            "seaman",
+            "seller",
+            "serf",
+            "sergeant",
+            "solicitor"
+          ],
+          "count": 24
+        },
+        {
+          "title": "Actions / Skills / Behavior / Communication",
+          "words": [
+            "obstruct",
+            "originate",
+            "outcry",
+            "outlive",
+            "output",
+            "paralyse",
+            "perception",
+            "pervade",
+            "pervert",
+            "pique",
+            "poke",
+            "pollute",
+            "predication",
+            "projection",
+            "proffer",
+            "pry",
+            "radiance",
+            "raid",
+            "rally",
+            "ramble",
+            "ratify",
+            "ravage",
+            "reappear",
+            "reassure",
+            "rebuff",
+            "reiterate",
+            "remodel",
+            "removal",
+            "repulse",
+            "revert",
+            "seethe",
+            "shred",
+            "shrug",
+            "shuffle",
+            "sneak"
+          ],
+          "count": 35
+        },
+        {
+          "title": "Emotions / Personality / Character / Mind",
+          "words": [
+            "obstinacy",
+            "ominous",
+            "outrageous",
+            "pathetic",
+            "perplexity",
+            "persistent",
+            "persuasive",
+            "precious",
+            "quarrelsome",
+            "reckless",
+            "resentment",
+            "ruthless",
+            "sagacity",
+            "sane",
+            "sanguine",
+            "sentimental",
+            "significant",
+            "sloth"
+          ],
+          "count": 18
+        },
+        {
+          "title": "Law / Politics / Governance / Religion",
+          "words": [
+            "oppressor",
+            "partisan",
+            "Pharaoh",
+            "presidential",
+            "prerogative",
+            "prevention",
+            "Quaker",
+            "regent",
+            "sergeant"
+          ],
+          "count": 9
+        },
+        {
+          "title": "Health / Medicine / Body",
+          "words": [
+            "paralyse",
+            "precaution",
+            "pollution",
+            "quinine",
+            "saliva"
+          ],
+          "count": 5
+        },
+        {
+          "title": "Education / Knowledge / Literature / Art",
+          "words": [
+            "ode",
+            "pamphlet",
+            "preface",
+            "presentation",
+            "projection",
+            "questionnaire",
+            "rhetoric",
+            "simile"
+          ],
+          "count": 8
+        },
+        {
+          "title": "Economy / Work / Production",
+          "words": [
+            "output",
+            "productive",
+            "prodigal",
+            "proffer",
+            "popularity",
+            "populous",
+            "preservation",
+            "preventive"
+          ],
+          "count": 8
+        },
+        {
+          "title": "Abstract Concepts / Miscellaneous",
+          "words": [
+            "omen",
+            "occurrence",
+            "origin",
+            "outbreak",
+            "precaution",
+            "perception",
+            "perplexity",
+            "probability",
+            "resemblance",
+            "responsibility",
+            "restriction",
+            "routine",
+            "rudiment",
+            "sequence",
+            "significant"
+          ],
+          "count": 15
+        }
+      ],
+      "word_count": 143
+    },
+    {
+      "title": "【八级】G-N",
+      "subcategories": [
+        {
+          "title": "People / Groups / Nationality / Social Classes",
+          "words": [
+            "gentile",
+            "gentry",
+            "Dane",
+            "Danish",
+            "gypsy",
+            "herdsman",
+            "heretic",
+            "hostess",
+            "huntsman",
+            "invader",
+            "intruder",
+            "newcomer",
+            "Norman"
+          ],
+          "count": 13
+        },
+        {
+          "title": "Geography / Nature / Environment / Plants / Animals",
+          "words": [
+            "geographical",
+            "geranium",
+            "gold-smith",
+            "golf",
+            "hawthorn",
+            "hemlock",
+            "honeysuckle",
+            "herring",
+            "hybrid",
+            "hygiene",
+            "lair",
+            "lavender",
+            "leafy",
+            "leech",
+            "linseed",
+            "mainland",
+            "marigold",
+            "maritime",
+            "Mars",
+            "metalic",
+            "mosquito",
+            "mountaineer",
+            "moat",
+            "molasses",
+            "mushroom",
+            "naturalist",
+            "nettle"
+          ],
+          "count": 27
+        },
+        {
+          "title": "Objects / Tools / Instruments / Materials",
+          "words": [
+            "gig",
+            "gilt",
+            "gloss",
+            "hammock",
+            "hull",
+            "juggle",
+            "laboratory",
+            "labyrinth",
+            "lobby",
+            "loft",
+            "loophole",
+            "mace",
+            "manual",
+            "mechanism",
+            "mesh",
+            "mortar",
+            "musket",
+            "needlework",
+            "network"
+          ],
+          "count": 19
+        },
+        {
+          "title": "Behavior / Character / Personality / Emotions",
+          "words": [
+            "habitual",
+            "haggard",
+            "hairy",
+            "heedless",
+            "hostility",
+            "imminent",
+            "impatience",
+            "imperious",
+            "impetuous",
+            "improper",
+            "incapable",
+            "inquisitive",
+            "insane",
+            "insolent",
+            "intolerable",
+            "irresistible",
+            "judicious",
+            "languid",
+            "lamentable",
+            "legitimate",
+            "loath",
+            "miraculous",
+            "murderous",
+            "mystic"
+          ],
+          "count": 24
+        },
+        {
+          "title": "Actions / Processes / Movements / Skills",
+          "words": [
+            "grab",
+            "graft",
+            "harass",
+            "heighten",
+            "hitch",
+            "identify",
+            "impeach",
+            "impend",
+            "imply",
+            "incorporate",
+            "inject",
+            "inscribe",
+            "intercept",
+            "intervene",
+            "irrigate",
+            "jam",
+            "jeer",
+            "jingle",
+            "knead",
+            "lament",
+            "liberate",
+            "mangle",
+            "mortify",
+            "negotiate",
+            "neutralize",
+            "nominate"
+          ],
+          "count": 26
+        },
+        {
+          "title": "Health / Medicine / Body",
+          "words": [
+            "hygiene",
+            "influenza",
+            "malady",
+            "malaria",
+            "narcotic"
+          ],
+          "count": 5
+        },
+        {
+          "title": "Education / Knowledge / Writing / Literature",
+          "words": [
+            "identify",
+            "idolatry",
+            "imitation",
+            "instructor",
+            "intellect",
+            "initiate",
+            "journal",
+            "juvenile"
+          ],
+          "count": 8
+        },
+        {
+          "title": "Law / Politics / Governance / Military",
+          "words": [
+            "impeach",
+            "injunction",
+            "international",
+            "invader",
+            "intruder",
+            "Norman",
+            "nominate"
+          ],
+          "count": 7
+        },
+        {
+          "title": "Economy / Work / Labor",
+          "words": [
+            "manual",
+            "maintenance",
+            "negotiate",
+            "network",
+            "novice",
+            "needy"
+          ],
+          "count": 6
+        },
+        {
+          "title": "Art / Culture / Entertainment / Music",
+          "words": [
+            "gig",
+            "gypsy",
+            "gloss",
+            "glossy",
+            "juggle"
+          ],
+          "count": 5
+        },
+        {
+          "title": "Abstract Concepts / Miscellaneous",
+          "words": [
+            "grandeur",
+            "grotesque",
+            "guise",
+            "habitual",
+            "haggard",
+            "hiatus",
+            "hybrid",
+            "impending",
+            "impressive",
+            "inexorable",
+            "initiative",
+            "invaluable",
+            "irrepressible",
+            "jovial",
+            "judicious",
+            "latent",
+            "luxurious",
+            "magnificent",
+            "monumental",
+            "monotonous",
+            "morality"
+          ],
+          "count": 21
+        }
+      ],
+      "word_count": 161
+    },
+    {
+      "title": "【八级】C-G",
+      "subcategories": [
+        {
+          "title": "Law / Politics / Governance",
+          "words": [
+            "crusade",
+            "daunt",
+            "dauntless",
+            "decisive",
+            "democratic",
+            "despot",
+            "deportment",
+            "designate",
+            "detachment",
+            "dissolution",
+            "distrust",
+            "domain",
+            "downfall",
+            "duel",
+            "duplicate"
+          ],
+          "count": 15
+        },
+        {
+          "title": "Science / Nature / Environment / Agriculture",
+          "words": [
+            "cucumber",
+            "cull",
+            "cultivator",
+            "diaphragm",
+            "diameter",
+            "digestive",
+            "dolphin",
+            "drainage",
+            "drought",
+            "earthworm",
+            "earthen",
+            "ebony",
+            "edible",
+            "efficacy",
+            "efficient",
+            "ember",
+            "epidemic",
+            "evaporate",
+            "evaporation",
+            "external",
+            "filament",
+            "fertility",
+            "fen",
+            "ferment",
+            "fermentation",
+            "fungus"
+          ],
+          "count": 26
+        },
+        {
+          "title": "Education / Knowledge / Communication",
+          "words": [
+            "critical",
+            "criticize",
+            "analysis",
+            "diagram",
+            "diary",
+            "edify",
+            "editor",
+            "editorial",
+            "educational",
+            "encyclopaedia",
+            "encyclopedia",
+            "enumerate",
+            "equation",
+            "era",
+            "espy",
+            "estimation",
+            "exposition",
+            "exhortation"
+          ],
+          "count": 18
+        },
+        {
+          "title": "Health / Medicine",
+          "words": [
+            "dentist",
+            "digestive",
+            "doleful",
+            "druggist",
+            "feverish"
+          ],
+          "count": 5
+        },
+        {
+          "title": "Social / Relationships / Emotion",
+          "words": [
+            "deliverer",
+            "delusion",
+            "dependence",
+            "depict",
+            "deride",
+            "disciple",
+            "disapproval",
+            "dogged",
+            "dole",
+            "doleful",
+            "endear",
+            "endurance",
+            "entreaty",
+            "entrust",
+            "eagerness",
+            "effeminate",
+            "emulation",
+            "encouragement"
+          ],
+          "count": 18
+        },
+        {
+          "title": "Military / War / Action / Movement",
+          "words": [
+            "ambush",
+            "daunt",
+            "dauntless",
+            "duel",
+            "drench",
+            "dump",
+            "exert",
+            "exertion",
+            "explode",
+            "explosion",
+            "explosive",
+            "flare",
+            "flicker",
+            "forage",
+            "generate"
+          ],
+          "count": 15
+        },
+        {
+          "title": "Objects / Tools / Materials",
+          "words": [
+            "cymbal",
+            "diagram",
+            "duplicate",
+            "farmhouse",
+            "flask",
+            "gauze",
+            "garret",
+            "garb"
+          ],
+          "count": 8
+        },
+        {
+          "title": "Art / Culture / Religion",
+          "words": [
+            "crusade",
+            "diary",
+            "diadem",
+            "dirge",
+            "epistle",
+            "exhortation",
+            "fabulous",
+            "fraternal",
+            "genteel"
+          ],
+          "count": 9
+        },
+        {
+          "title": "Economy / Business",
+          "words": [
+            "federation",
+            "expenditure",
+            "expend",
+            "formula"
+          ],
+          "count": 4
+        },
+        {
+          "title": "Character / Behavior / Personality",
+          "words": [
+            "dauntless",
+            "decisive",
+            "devilish",
+            "dogged",
+            "eccentric",
+            "energetic",
+            "enthusiastic",
+            "fervent",
+            "frivolous",
+            "frugal"
+          ],
+          "count": 10
+        },
+        {
+          "title": "Miscellaneous / Abstract Concepts",
+          "words": [
+            "critical",
+            "dearth",
+            "decidedly",
+            "degradation",
+            "deliberation",
+            "dexterity",
+            "diminutive",
+            "diverse",
+            "dramatic",
+            "duplicate",
+            "eventual",
+            "erroneous",
+            "exertion",
+            "exhale",
+            "exit",
+            "expectant",
+            "exultation",
+            "fabulous",
+            "famish",
+            "fortitude",
+            "fragile"
+          ],
+          "count": 21
+        }
+      ],
+      "word_count": 149
+    },
+    {
+      "title": "【八级】A-C",
+      "subcategories": [
+        {
+          "title": "Law / Politics / Governance",
+          "words": [
+            "abolition",
+            "arbitrary",
+            "archbishop",
+            "aristocrat",
+            "Baptiste",
+            "ballot",
+            "bankrupt",
+            "consecrate",
+            "constitutional",
+            "counteract"
+          ],
+          "count": 10
+        },
+        {
+          "title": "Education / Knowledge / Science",
+          "words": [
+            "abstract",
+            "academic",
+            "accumulate",
+            "accuracy",
+            "acknowledgment",
+            "acquisition",
+            "adaptation",
+            "adequate",
+            "adjective",
+            "analysis",
+            "appreciation",
+            "appropriation",
+            "astronomer",
+            "astronaut",
+            "atom",
+            "chemical",
+            "chemist",
+            "concentration",
+            "conversion",
+            "convection",
+            "convex"
+          ],
+          "count": 21
+        },
+        {
+          "title": "Health / Medicine",
+          "words": [
+            "ailment",
+            "alert",
+            "allay",
+            "antitoxin",
+            "anxiety",
+            "contagious",
+            "contaminate",
+            "cholera"
+          ],
+          "count": 8
+        },
+        {
+          "title": "Social / Relationships",
+          "words": [
+            "admirer",
+            "adult",
+            "adviser",
+            "ally",
+            "allurement",
+            "befriender",
+            "believer",
+            "companionship",
+            "compassionate",
+            "competitor",
+            "credulous",
+            "creed"
+          ],
+          "count": 12
+        },
+        {
+          "title": "Communication / Writing / Language",
+          "words": [
+            "adjective",
+            "alphabet",
+            "articulate",
+            "code",
+            "coinage",
+            "conjunction",
+            "consonant",
+            "correspondence",
+            "counsel",
+            "counselor"
+          ],
+          "count": 10
+        },
+        {
+          "title": "Emotion / Character / Behavior",
+          "words": [
+            "ardent",
+            "arrogance",
+            "arrogant",
+            "audacity",
+            "beastly",
+            "bland",
+            "crafty",
+            "clumsy",
+            "courageous",
+            "contentment",
+            "coolness",
+            "credulous"
+          ],
+          "count": 12
+        },
+        {
+          "title": "Nature / Environment / Geography",
+          "words": [
+            "alpine",
+            "ancestral",
+            "asparagus",
+            "asphalt",
+            "background",
+            "carbon",
+            "carcass",
+            "cereal",
+            "chasm",
+            "copse"
+          ],
+          "count": 10
+        },
+        {
+          "title": "Art / Culture / Religion",
+          "words": [
+            "angelic",
+            "annals",
+            "anthem",
+            "archbishop",
+            "churchgoer",
+            "comeliness",
+            "commendation"
+          ],
+          "count": 7
+        },
+        {
+          "title": "Military / War / Action",
+          "words": [
+            "ambush",
+            "archer",
+            "assert",
+            "assault",
+            "avert",
+            "blunder",
+            "brandish",
+            "boom",
+            "cramp",
+            "crank"
+          ],
+          "count": 10
+        },
+        {
+          "title": "Objects / Tools / Materials",
+          "words": [
+            "balloon",
+            "bandage",
+            "bail",
+            "bale",
+            "beaver",
+            "burner",
+            "buoy",
+            "camera",
+            "capillary",
+            "charcoal",
+            "chemise",
+            "code",
+            "casket"
+          ],
+          "count": 13
+        },
+        {
+          "title": "Economy / Business",
+          "words": [
+            "budget",
+            "compute",
+            "confiscate",
+            "compensate",
+            "covetous",
+            "competition",
+            "competitor"
+          ],
+          "count": 7
+        },
+        {
+          "title": "Movement / Physical / Mechanics",
+          "words": [
+            "adhere",
+            "adapt",
+            "adjustment",
+            "ascent",
+            "circulate",
+            "collapse",
+            "converge",
+            "compress",
+            "conform",
+            "congregate",
+            "counteract"
+          ],
+          "count": 11
+        },
+        {
+          "title": "Miscellaneous / Abstract Concepts",
+          "words": [
+            "ado",
+            "assumption",
+            "astound",
+            "attachment",
+            "available",
+            "bland",
+            "boom",
+            "bout",
+            "contentment",
+            "considerable",
+            "consistent",
+            "constancy",
+            "contingency",
+            "culmination",
+            "crisis"
+          ],
+          "count": 15
+        }
+      ],
+      "word_count": 146
+    }
+  ],
+  "total_words": 717
+}
