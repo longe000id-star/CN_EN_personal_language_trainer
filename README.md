@@ -22,8 +22,21 @@ This system combines and orchestrates multiple platforms, including:
 - Obsidian
 - Notion
 - Streamlit
+- Whisper
 
 These components work together to form a unified, full-spectrum virtual language trainer.
+
+## Model Integration
+
+In addition, the system leverages both open-source and commercial models, including:
+
+- Speech recognition models (e.g., Whisper)  
+- Video generation models  
+- Image generation models  
+- Text generation models  
+
+These models are connected to the platforms above to enable automated testing, analysis, content generation, and performance evaluation.
+
 
 ## Key Features
 
