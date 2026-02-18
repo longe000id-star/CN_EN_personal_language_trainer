@@ -18,7 +18,10 @@ This system combines and orchestrates multiple platforms, including:
 - NotebookLM  
 - YouTube  
 - ChatGPT Atlas  
-- Media generation tools  
+- Media generation tools 
+- Obsidian
+- Notion
+- Streamlit
 
 These components work together to form a unified, full-spectrum virtual language trainer.
 
